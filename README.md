@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on a lot of projects related to my interest
 - 📫 How to reach me 
 - www.fb.com/mmyrali
-- twitter.com/mmyrali
-- linkedin.com/in/mohamed-u3/
+- www.twitter.com/mmyrali
+- www.linkedin.com/in/mohamed-u3/
 
 <!---
 Mohamed-U3/Mohamed-U3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
