@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems Engineering, AI,and IoT systems
 - 🌱 I’m currently learning Embedded via C and OOP using C++&python, and IoT
 - 💞️ I’m looking to collaborate on a lot of projects related to my interest
-- 📫 How to reach me 
+- 📫 How to reach me ?
 - www.fb.com/mmyrali
 - www.twitter.com/mmyrali
 - www.linkedin.com/in/mohamed-u3/
