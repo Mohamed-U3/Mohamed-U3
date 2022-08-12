@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohamed-U3
-- 👀 I’m interested in Embedded Systems Engineering, AI,and IoT systems
+- 👀 I’m interested in Embedded Systems Engineering, AI, IoT systems, and SW testing.
 - 🌱 I’m currently learning Embedded via C and OOP using C++&python, and IoT
 - 💞️ I’m looking to collaborate on a lot of projects related to my interest
 - 📫 How to reach me ?
