@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mohamed-U3
-- 👀 I’m interested in Embedded Systems Engineering, AI, IoT systems, and SW testing.
-- 🌱 I’m currently learning Embedded via C and OOP using C++&python, and IoT
-- 💞️ I’m looking to collaborate on a lot of projects related to my interest
-- 📫 How to reach me ?
+- 👀 I’m interested in Embedded Systems Engineering, AI, IoT systems, and Hardware Design.
+- 🌱 I’m currently learning Embedded via C and OOP using C++ & Python, and IoT.
+- 💞️ I want to collaborate on many projects related to my interests.
+- 📫 How to reach me?
 - www.fb.com/mmyrali
 - www.twitter.com/mmyrali
 - www.linkedin.com/in/mohamed-u3/
